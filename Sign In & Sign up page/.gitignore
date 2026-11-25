@@ -1,0 +1,14 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+.vscode/*
+!.vscode/launch.json
+android/local.properties
+android/.gradle/
+ios/Pods/
+pubspec.lock.bak
+.env
